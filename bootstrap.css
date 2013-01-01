@@ -299,11 +299,11 @@ body {
   background-color: #f7f7f7;
 }
 a {
-  color: #0088cc;
+  color: #000000;
   text-decoration: none;
 }
 a:hover {
-  color: #005580;
+  color: #284B73;
 }
 .img-rounded {
   -webkit-border-radius: 6px;
